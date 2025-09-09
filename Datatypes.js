@@ -6,6 +6,8 @@ var isFemale = false; // Boolean
 var middleName; // Undefined
 var lastName = null; // Null
 
+
+
 var person = {
     'name': firstName,
     'age': age,
